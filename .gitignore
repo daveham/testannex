@@ -7,4 +7,4 @@
 .idea/
 
 # exports
-darktable_exported/*.jpg
+**/darktable_exported/**/*.jpg
