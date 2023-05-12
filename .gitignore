@@ -1,0 +1,10 @@
+# OSX
+#
+.DS_Store
+
+# misc
+.vscode/
+.idea/
+
+# exports
+darktable_exported/*.jpg
